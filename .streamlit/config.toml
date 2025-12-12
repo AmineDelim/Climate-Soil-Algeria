@@ -1,0 +1,9 @@
+[server]
+
+# Automatically rerun script when the file is modified on disk.
+runOnSave = true
+
+# Max size, in megabytes, for files uploaded with the file_uploader.
+maxUploadSize = 5000
+
+maxMessageSize = 5000
