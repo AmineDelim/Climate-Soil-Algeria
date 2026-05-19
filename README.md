@@ -73,6 +73,6 @@ streamlit run App.py
 - Mohamed Amine DELIM
 - Sami Ilyas NOUICER
 
-- ## Report
-  
+## Report
+
 🔗 [Full report (French)](https://github.com/AmineDelim/Climate-Soil-Algeria/blob/main/Report_FR.pdf)
